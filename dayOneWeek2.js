@@ -9,8 +9,6 @@ const {color} = myCar
 console.log(color)
 
 
-
-
 // 2. Write a function that converts hours into seconds. 
 //Return the result. Invoke the function.
 
@@ -22,9 +20,6 @@ function convertHoursToSeconds(hours) {
   
   console.log(convertHoursToSeconds(5));
 
-  //same as
-  //const totalHours = convertWeeksToHours(5);
-  //console.log(totalHours);
 
 
 // 3. Practice making entity relationship diagrams by building one 
